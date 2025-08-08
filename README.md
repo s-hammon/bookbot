@@ -1,3 +1,5 @@
 # BOOKBOT (2.0)
 
-BookBot is (not) my first [Boot.dev](https://www.boot.dev) project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
+Not really though....
